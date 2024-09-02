@@ -1,4 +1,4 @@
-- BS Information Systems student from Mandaluyong College of Science and Technology.
+- BS in Information Systems student from Mandaluyong College of Science and Technology.
 - Aspiring Data Engineer.
 
 <!---
