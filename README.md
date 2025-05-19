@@ -1,5 +1,4 @@
-- BS in Information Systems student at Mandaluyong College of Science and Technology.
-- Aspiring Data/DevOps Engineer.
+I am a BS in Information Systems student at Mandaluyong College of Science and Technology, aspiring to become a Data Engineer or Full-Stack Developer.
 
 <!---
 M-M-I-V/M-M-I-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
