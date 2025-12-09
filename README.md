@@ -62,13 +62,6 @@ I bridge the gap between complex data and user-friendly applications. From build
 
 * 📊 **Data Warehousing:** Designing ETL pipelines with **Python** and **MySQL** to analyze healthcare patient outcomes and treatment costs.
 
-### ⚡ GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=M-M-I-V&show_icons=true&theme=radical&count_private=true" alt="Neil's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-M-I-V&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ### 📫 Let's Connect
 
 <p align="center">
