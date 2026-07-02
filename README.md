@@ -1,12 +1,12 @@
-# Hi there, I'm Neil Jay Lacandazo! 👋
+# Hi there, I'm Neil Jay Lacandazo!
 
-### 👨‍💻 Junior Information Systems Student & Full-Stack Developer
+### Senior Information Systems Student, Data Engineer & Full-Stack Developer
 
 **Mandaluyong College of Science and Technology**
 
 I bridge the gap between complex data and user-friendly applications. From building the **official digital infrastructure** for my college to training **machine learning models** for healthcare, I love solving real-world problems with code.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend & Design**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -50,15 +50,7 @@ I bridge the gap between complex data and user-friendly applications. From build
 **Certifications**
 [![DataCamp](https://img.shields.io/badge/DataCamp-Associate%20Data%20Engineer-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/certificate/DEA0010346448104)
 
-### 🚀 What I'm Working On
-
-* 🏛️ **MCST Official Website:** Currently serving as the **Lead Implementer & Maintainer** for [mcst.edu.ph](https://mcst.edu.ph). Built with React/Vite to serve the entire student and faculty body.
-
-* 🏥 **MCST eClinic:** Developing a GDPR/HIPAA-inspired Patient Record Management System using **Spring Boot** and **Next.js** to digitize the college's health services.
-
-* 📊 **Data Warehousing:** Designing ETL pipelines with **Python** and **MySQL** to analyze healthcare patient outcomes and treatment costs.
-
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/neil-jay-lacandazo-644ba91b8/">
