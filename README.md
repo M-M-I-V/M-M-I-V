@@ -56,7 +56,7 @@ I bridge the gap between complex data and user-friendly applications. From build
 <a href="https://www.linkedin.com/in/neil-jay-lacandazo-644ba91b8/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://neiljaylacandazo-portfolio.vercel.app/">
+<a href="https://neiljaylacandazo.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:neiljaylacandazo@gmail.com">
