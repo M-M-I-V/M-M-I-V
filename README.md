@@ -49,6 +49,7 @@ I bridge the gap between complex data and user-friendly applications. From build
 
 **Certifications**
 [![DataCamp](https://img.shields.io/badge/DataCamp-Associate%20Data%20Engineer-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/certificate/DEA0010346448104)
+[![DataCamp](https://img.shields.io/badge/DataCamp%20Data%20Engineer-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/certificate/DE0011399437399)
 
 ### Let's Connect
 
