@@ -1,8 +1,8 @@
-### Hi, I'm Neil Jay Lacandazo!
+## Hi, I'm Neil Jay Lacandazo!
 
 I'm an aspiring Data Engineer with software engineering background. I enjoy building reliable systems and working with data. I'm now specializing in data engineering by strengthening my SQL, Python, Snowflake, Airflow, Spark, Databrick, and cloud skills through hands-on projects. I love learning and developing projects that solve real-world problems.
 
-**Certifications**
+### Certifications
 [![DataCamp](https://img.shields.io/badge/DataCamp-Associate%20Data%20Engineer-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/certificate/DEA0010346448104)
 [![DataCamp](https://img.shields.io/badge/DataCamp%20Data%20Engineer-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/certificate/DE0011399437399)
 
