@@ -1,51 +1,6 @@
-# Hi there, I'm Neil Jay Lacandazo!
+### Hi there, I'm Neil Jay Lacandazo!
 
-### Senior Information Systems Student, Data Engineer & Full-Stack Developer
-
-**Mandaluyong College of Science and Technology**
-
-I bridge the gap between complex data and user-friendly applications. From building the **official digital infrastructure** for my college to training **machine learning models** for healthcare, I love solving real-world problems with code.
-
-### Tech Stack & Tools
-
-**Frontend & Design**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-**Backend & APIs**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Database**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Data Engineering**
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SqlAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-**Machine Learning**
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLxtend](https://img.shields.io/badge/MLxtend-%23F7931E.svg?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Joblib](https://img.shields.io/badge/Joblib-%23000000.svg?style=for-the-badge)
-
-**DevOps & Tools**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I'm an aspiring Data Engineer with software engineering background. I enjoy building reliable systems and working with data. I'm now specializing in data engineering by strengthening my SQL, Python, Snowflake, Airflow, Spark, Databrick, and cloud skills through hands-on projects. I love learning and developing projects that solve real-world problems.
 
 **Certifications**
 [![DataCamp](https://img.shields.io/badge/DataCamp-Associate%20Data%20Engineer-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/certificate/DEA0010346448104)
