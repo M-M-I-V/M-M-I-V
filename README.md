@@ -1,4 +1,4 @@
-### Hi there, I'm Neil Jay Lacandazo!
+### Hi, I'm Neil Jay Lacandazo!
 
 I'm an aspiring Data Engineer with software engineering background. I enjoy building reliable systems and working with data. I'm now specializing in data engineering by strengthening my SQL, Python, Snowflake, Airflow, Spark, Databrick, and cloud skills through hands-on projects. I love learning and developing projects that solve real-world problems.
 
@@ -7,8 +7,6 @@ I'm an aspiring Data Engineer with software engineering background. I enjoy buil
 [![DataCamp](https://img.shields.io/badge/DataCamp%20Data%20Engineer-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/certificate/DE0011399437399)
 
 ### Let's Connect
-
-<p align="center">
 <a href="https://www.linkedin.com/in/neil-jay-lacandazo-644ba91b8/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -18,7 +16,6 @@ I'm an aspiring Data Engineer with software engineering background. I enjoy buil
 <a href="mailto:neiljaylacandazo@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</p>
 
 <!---
 M-M-I-V/M-M-I-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
